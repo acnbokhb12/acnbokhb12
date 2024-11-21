@@ -8,15 +8,17 @@ Feel free to explore my repositories, collaborate, or just say hi! 😊
 # 📊 GitHub Stats:
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=acnbokhb12&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=acnbokhb12&theme=dark&hide_border=false) |
 |:-------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------:|
-
-
- # 📊 GitHub Stats:
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=acnbokhb12&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=acnbokhb12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
-|:-------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------:|
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=acnbokhb12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<table>
+ <thead>
+  <tr>
+   <th><img src="https://github-readme-stats.vercel.app/api?username=acnbokhb12&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" ></th>
+   <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acnbokhb12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Streak"></th>
+  </tr>
+ </thead>
+</table>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=acnbokhb12&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="200px">
+  <img src="https://github-readme-stats.vercel.app/api?username=acnbokhb12&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acnbokhb12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Streak" height="200px">
 </div>
 ---
