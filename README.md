@@ -1,9 +1,7 @@
 
-
-# 💫 About Me:
-# 🌟 Welcome to My GitHub Profile! 🌟<br>
-# 👋 Hi there! I'm Khanh<br>
-🎯 Backend Developer | 💻 Problem Solver | 🚀 Tech Enthusiast  <br>
+# 🌟 Welcome to My GitHub Profile! 🌟
+👋 Hi there! I'm Khanh
+🎯 Backend Developer | 💻 Problem Solver | 🚀 Tech Enthusiast
 Feel free to explore my repositories, collaborate, or just say hi! 😊  
 
 
