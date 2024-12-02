@@ -9,9 +9,7 @@ Feel free to explore my repositories, collaborate, or just say hi! 😊
 <table>
  <thead>
   <tr>
-   <th style=""padding:6px 13px;>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=acnbokhb12&theme=white&hide_border=true)
-   </th>
+   <th style=""padding:6px 13px;><img src="https://github-readme-streak-stats.herokuapp.com/?user=acnbokhb12&theme=white&hide_border=true" alt="GitHub Streak" style="max-width: 100%;"></th>
   </tr>
  </thead>
 </table>
