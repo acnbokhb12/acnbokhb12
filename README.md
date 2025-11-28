@@ -22,17 +22,4 @@ Feel free to explore my repositories, collaborate, or just say hi! 😊
   </tr>
  </thead>
 </table>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acnbokhb12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=acnbokhb12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=acnbokhb12&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
+ 
