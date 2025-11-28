@@ -23,29 +23,16 @@ Feel free to explore my repositories, collaborate, or just say hi! 😊
  </thead>
 </table>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"></p>
+## 📊 GitHub Stats
 
-<p>
-  <img 
-    align="left" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=acnbokhb12&layout=compact&show_icons=true&cache_seconds=86400" 
-    alt="Top Langs"
-  />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acnbokhb12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
-<p>
-  <img 
-    align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=acnbokhb12&show_icons=true&cache_seconds=86400" 
-    alt="GitHub Stats"
-  />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=acnbokhb12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </p>
 
-<p>
-  <img 
-    align="center" 
-    src="https://streak-stats.demolab.com/?user=acnbokhb12" 
-    alt="GitHub Streak"
-  />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=acnbokhb12&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
